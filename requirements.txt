@@ -1,0 +1,5 @@
+fiona
+pandas
+numpy
+geopandas
+bokeh
