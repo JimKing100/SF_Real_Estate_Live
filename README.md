@@ -16,6 +16,6 @@ Tech_Salary_vs_Housing_Cost.ipynb - The colab graphing code for the two graphs.
 
 Heroku Files
 
-SF_Real_Estate_Project.py - Final executable python code from SF_Map_Code_Final.ipynb
-Procfile
-requirements.txt
+SF_Real_Estate_Project.py - Final executable python code from SF_Map_Code_Final.ipynb.
+Procfile.
+requirements.txt.
