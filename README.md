@@ -10,10 +10,12 @@ data - a data directory
 - RankedTechIncome.csv - The Bureau of Labor Statistics income data for 2018
 
 Colab Notebooks
+
 SF_Map_Code_Final.ipynb - The colab mapping code for the interactive SF Real Estate Map.
 Tech_Salary_vs_Housing_Cost.ipynb - The colab graphing code for the two graphs.
 
 Heroku Files
+
 SF_Real_Estate_Project.py - Final executable python code from SF_Map_Code_Final.ipynb
 Procfile
 requirements.txt
