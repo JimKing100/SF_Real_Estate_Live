@@ -11,8 +11,8 @@ data - a data directory
 
 Colab Notebooks
 
-SF_Map_Code_Final.ipynb - The colab mapping code for the interactive SF Real Estate Map.
-Tech_Salary_vs_Housing_Cost.ipynb - The colab graphing code for the two graphs.
+- SF_Map_Code_Final.ipynb - The colab mapping code for the interactive SF Real Estate Map.
+- Tech_Salary_vs_Housing_Cost.ipynb - The colab graphing code for the two graphs.
 
 Heroku Files
 
