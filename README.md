@@ -7,7 +7,7 @@ data - a data directory
 - SF-SFR-Sales-Final1.csv - The raw data downloaded from the SF MLS for all single-family home sales in SF 2009-2018.
 - Realtor Neighborhoods.geojson - The mapping data downloaded from https://datasf.org/opendata/
 - 2018MedianHomes-Final.csv - The median home prices scraped from the NAR Median Sales Price of Existing SFH for MSAs
-- RankedTechIncome.csv - The Bureau of Labor Statistics income data for 2018
+- RankedTechIncome.csv - The Bureau of Labor Statistics - Occupational Employment Statistics income data for 2018 by MSA.  https://www.bls.gov/oes
 
 Colab Notebooks
 
