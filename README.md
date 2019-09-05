@@ -8,6 +8,7 @@ data - a data directory
 - Realtor Neighborhoods.geojson - The mapping data downloaded from https://data.sfgov.org/Geographic-Locations-and-Boundaries/Realtor-Neighborhoods/5gzd-g9ns
 - 2018MedianHomes-Final.csv - The median home prices scraped from the NAR Median Sales Price of Existing SFH for MSAs. https://www.nar.realtor/sites/default/files/documents/metro-home-prices-q2-2019-single-family-2019-08-07.pdf
 - RankedTechIncome.csv - The Bureau of Labor Statistics - Occupational Employment Statistics income data for 2018 by MSA.  https://www.bls.gov/oes
+- neighborhood_data.csv - A test dataset to use if you want to skip the data cleaning steps.
 
 Colab Notebooks
 
