@@ -20,4 +20,4 @@ Heroku Files
 
 - SF_Real_Estate_Project.py - Final executable python code from SF_Map_Code_Final.ipynb
 - Procfile
-- requirements.txt.
+- requirements.txt
